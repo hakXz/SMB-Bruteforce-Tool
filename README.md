@@ -14,6 +14,5 @@ git clone https://github.com/hakXz/SMB-Bruteforce-Tool.git
 cd SMB-Bruteforce-Tool
 ```
 
-## Usage (high-level)
-Run the provided `.bat` file **only** inside an isolated lab environment and against test targets you control. The script will prompt for the necessary inputs when run.  
-If you are the repository owner or have **explicit written authorization**, confirm that and I will provide the detailed, authorized-only usage steps (what the script prompts for and example safe inputs).
+## Usage
+
