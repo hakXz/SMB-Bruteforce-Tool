@@ -16,7 +16,7 @@ cd SMB-Bruteforce-Tool
 
 ## Usage
 ### 1. run the batch file: ###
-   `main.bat`  
+ ###  `main.bat`  ###
 ### 2. When prompted, enter the **target IP address**.  ###
 ### 3. Enter the **target username**.  ###
 ### 4. Enter the **wordlist filename (including extension)** you downloaded, e.g. `wordlist.txt`. ###
